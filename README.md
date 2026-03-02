@@ -1,9 +1,4 @@
 🌸Olá! Eu sou o Camilo Sebastian🌸
-## 📊 Minhas estatísticas no GitHub
-https://github-readme-stats.vercel.app/api?username=CamiloSebastian&show_icons=true&theme=tokyonight
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloSebastian&layout=compact&theme=tokyonight
-
 ## 🎮 Tecnologias
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>

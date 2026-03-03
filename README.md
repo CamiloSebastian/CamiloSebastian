@@ -5,7 +5,7 @@
 <img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-
+<br>
 ## 🎮 Game Development & Design
 <img align="left" alt="Aseprite" width="40px" src="https://raw.githubusercontent.com/CamiloSebastian/CamiloSebastian/main/assets/logoa.png"/>
 <img align="left" alt="RPG MAKER MV" width="40px" src="https://raw.githubusercontent.com/CamiloSebastian/CamiloSebastian/main/assets/logormmv.png"/>
